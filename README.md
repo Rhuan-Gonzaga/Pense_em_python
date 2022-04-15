@@ -1,1 +1,3 @@
-# Pense_em_python
+## Exercicios feitos por mim do livro Pense em Python.
+
+
